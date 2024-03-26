@@ -1,0 +1,11 @@
+# python cache
+__pycache__/
+
+# python environment
+.env/
+.venv/
+env/
+venv/
+
+# API tokens
+*TOKEN
